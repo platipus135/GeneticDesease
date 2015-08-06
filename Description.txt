@@ -1,0 +1,11 @@
+A library of genetic deseases where i will look up and use any information i can find on the desease.
+
+The information can range from how common the desease is to where in the world the rates are highest.
+
+There will also be a donate tab connected to the companies Iomics or Genetic Networks which do research on genetic desease.
+
+The money donated can be unique to the desease one wants to donate to, allowing for research to be 
+spent on more internationally important or personal threats, which is determined by the people.
+
+Even if you do not want to donate, the app should be a library of information that one could access for free for their
+own personal or commercial gain, using information found off of the internet and published science papers.
